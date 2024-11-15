@@ -8,7 +8,16 @@ MODEM_POWER_KEY   ---- PD7
 LED               ---- PC13
 
 Features:
-- Uses LWIP
-- PPPOS dialing
-- MQTT client
-- CMSIS RTOS
+  - Uses LWIP
+  - PPPOS dialing
+  - MQTT client
+  - CMSIS RTOS
+
+To build:
+  - go to WSL
+  - install gcc-arm-none compiler
+    `apt install gcc-arm-none-eabi`
+  - run `cmake .`
+  - then build with `make -j8`
+
+Then you should see a .elf file generated. You can flash it to your board using STLink programmer using STM32CubeProgrammer software.
