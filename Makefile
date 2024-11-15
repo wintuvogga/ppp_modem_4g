@@ -57,10 +57,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/Projects/STM32F407_LWIP/modem
+CMAKE_SOURCE_DIR = /mnt/d/Projects/ppp_modem_4g
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/Projects/STM32F407_LWIP/modem
+CMAKE_BINARY_DIR = /mnt/d/Projects/ppp_modem_4g
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ rebuild_cache/fast: rebuild_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Projects/STM32F407_LWIP/modem/CMakeFiles /mnt/d/Projects/STM32F407_LWIP/modem//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Projects/ppp_modem_4g/CMakeFiles /mnt/d/Projects/ppp_modem_4g//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Projects/STM32F407_LWIP/modem/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/Projects/ppp_modem_4g/CMakeFiles 0
 .PHONY : all
 
 # The main clean target

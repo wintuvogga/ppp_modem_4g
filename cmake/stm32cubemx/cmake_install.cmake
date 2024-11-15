@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/Projects/STM32F407_LWIP/modem/cmake/stm32cubemx
+# Install script for directory: /mnt/d/Projects/ppp_modem_4g/cmake/stm32cubemx
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
