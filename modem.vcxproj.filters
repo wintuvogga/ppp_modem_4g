@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\freertos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\stm32f4xx_it.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\stm32f4xx_hal_msp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\stm32f4xx_hal_timebase_tim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\LWIP\Target\ethernetif.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\LWIP\App\lwip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\MBEDTLS\App\mbedtls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\MBEDTLS\App\net_sockets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\BSP\Components\lan8742\lan8742.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_rcc_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_flash_ramfunc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_gpio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_dma.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_pwr_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_cortex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_exti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_eth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_tim_ex.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Drivers\STM32F4xx_HAL_Driver\Src\stm32f4xx_hal_uart.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\system_stm32f4xx.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\croutine.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\event_groups.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\list.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\queue.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\stream_buffer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\tasks.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\timers.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2\cmsis_os2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\portable\MemMang\heap_4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\FreeRTOS\Source\portable\GCC\ARM_CM4F\port.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\auth.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\ccp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\chap_ms.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\chap-md5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\chap-new.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\demand.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\eap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\eui64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\fsm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\ipcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\ipv6cp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\lcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\magic.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\mppe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\multilink.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\ppp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\pppapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\pppcrypt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\pppoe.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\pppol2tp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\pppos.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\upap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\utils.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ppp\vj.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\bridgeif.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\bridgeif_fdb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\ethernet.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\lowpan6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\lowpan6_ble.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\lowpan6_common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\slipif.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\netif\zepif.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\api_lib.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\api_msg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\err.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\if_api.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\netbuf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\netdb.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\netifapi.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\sockets.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\api\tcpip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\altcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\altcp_alloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\altcp_tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\def.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\dns.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\inet_chksum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\init.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\mem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\memp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\netif.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\pbuf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\raw.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\stats.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\sys.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\tcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\tcp_in.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\tcp_out.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\timeouts.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\udp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\autoip.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\dhcp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\etharp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\icmp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\igmp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\ip4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\ip4_addr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv4\ip4_frag.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\dhcp6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\ethip6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\icmp6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\inet6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\ip6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\ip6_addr.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\ip6_frag.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\mld6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\core\ipv6\nd6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\system\OS\sys_arch.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\lwip\src\apps\mqtt\mqtt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\aes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\asn1parse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\asn1write.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\base64.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\bignum.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\camellia.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\certs.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\chacha20.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\chachapoly.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\cipher.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\cipher_wrap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ctr_drbg.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\dhm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ecdh.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ecdsa.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ecp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ecp_curves.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\entropy.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\entropy_poll.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\gcm.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\hkdf.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\md.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\md_wrap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\memory_buffer_alloc.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\oid.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\pem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\pk.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\pkparse.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\pk_wrap.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\platform.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\platform_util.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\poly1305.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\rsa_internal.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\sha256.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\sha512.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ssl_ciphersuites.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ssl_cli.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ssl_srv.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\ssl_tls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\version_features.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\x509.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Middlewares\Third_Party\mbedTLS\library\x509_crt.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\sysmem.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Projects\STM32F407_LWIP\modem\Core\Src\syscalls.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\Projects\STM32F407_LWIP\modem\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\Projects\STM32F407_LWIP\modem\startup_stm32f407xx.s" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7B91595A-E67A-38E5-A98A-E1278EE77A7C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

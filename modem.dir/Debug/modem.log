@@ -1,0 +1,8 @@
+﻿  Building Custom Rule D:/Projects/STM32F407_LWIP/modem/CMakeLists.txt
+  CMake is re-running because D:/Projects/STM32F407_LWIP/modem/CMakeFiles/generate.stamp is out-of-date.
+    the file 'D:/Projects/STM32F407_LWIP/modem/CMakeLists.txt'
+    is newer than 'D:/Projects/STM32F407_LWIP/modem/CMakeFiles/generate.stamp.depend'
+    result='-1'
+CUSTOMBUILD : CMake error : The current CMakeCache.txt directory D:/Projects/STM32F407_LWIP/modem/CMakeCache.txt is different than the directory /mnt/d/Projects/STM32F407_LWIP/modem where CMakeCache.txt was created. This may result in binaries being created in the wrong place. If you are not sure, reedit the CMakeCache.txt
+CUSTOMBUILD : CMake error : The source "D:/Projects/STM32F407_LWIP/modem/CMakeLists.txt" does not match the source "/mnt/d/Projects/STM32F407_LWIP/modem/CMakeLists.txt" used to generate cache.  Re-run cmake with a different source directory.
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(254,5): error MSB8066: Custom build for 'D:\Projects\STM32F407_LWIP\modem\CMakeLists.txt' exited with code 1.

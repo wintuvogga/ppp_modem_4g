@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "platform.h": "c",
+        "mbedtls.h": "c",
+        "mbedtls_config.h": "c",
+        "config.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "stm32f4xx_hal_uart.h": "c",
+        "xutility": "c",
+        "ppp_modem.h": "c",
+        "cmsis_os.h": "c",
+        "lwip.h": "c",
+        "algorithm": "c",
+        "xmemory": "c",
+        "cstddef": "c",
+        "stdio.h": "c",
+        "mqtt.h": "c"
+    }
+}
